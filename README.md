@@ -1,7 +1,7 @@
 Code for "Topological Machine Learning for Mixed Numeric and Categorical Data"
 (https://arxiv.org/abs/2003.04584)
 
-# Order of running code:
+## Order of running code:
 1) dataCleaning_v2.py
 
 Performs cleaning of data, including standardization and symmetry breaking.
